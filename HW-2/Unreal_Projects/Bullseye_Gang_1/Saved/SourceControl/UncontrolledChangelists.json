@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/chaml/OneDrive/Desktop/CSU Homework/Computer_Class/HW-2/Unreal_Projects/Bullseye_Gang_1/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/chaml/OneDrive/Desktop/CSU Homework/Computer_Class/HW-2/Unreal_Projects/Bullseye_Gang_1/Content/Enemies/Basic_Mob/Model_Animation_5.uasset",
+				"C:/Users/chaml/OneDrive/Desktop/CSU Homework/Computer_Class/HW-2/Unreal_Projects/Bullseye_Gang_1/Content/Enemies/Basic_Mob/Material_003.uasset",
+				"C:/Users/chaml/OneDrive/Desktop/CSU Homework/Computer_Class/HW-2/Unreal_Projects/Bullseye_Gang_1/Content/Enemies/Basic_Mob/Texture_Add_Basic.uasset",
+				"C:/Users/chaml/OneDrive/Desktop/CSU Homework/Computer_Class/HW-2/Unreal_Projects/Bullseye_Gang_1/Content/Enemies/Basic_Mob/Model_Animation_5_Skeleton.uasset",
+				"C:/Users/chaml/OneDrive/Desktop/CSU Homework/Computer_Class/HW-2/Unreal_Projects/Bullseye_Gang_1/Content/Enemies/Basic_Mob/Model_Animation_5_PhysicsAsset.uasset",
+				"C:/Users/chaml/OneDrive/Desktop/CSU Homework/Computer_Class/HW-2/Unreal_Projects/Bullseye_Gang_1/Content/Enemies/Basic_Mob/Model_Animation_5_Anim_Root_grab.uasset",
+				"C:/Users/chaml/OneDrive/Desktop/CSU Homework/Computer_Class/HW-2/Unreal_Projects/Bullseye_Gang_1/Content/Enemies/Basic_Mob/Model_Animation_5_Anim_Root_shoot_1.uasset",
+				"C:/Users/chaml/OneDrive/Desktop/CSU Homework/Computer_Class/HW-2/Unreal_Projects/Bullseye_Gang_1/Content/Enemies/Basic_Mob/Model_Animation_5_Anim_Root_Walk_end.uasset",
+				"C:/Users/chaml/OneDrive/Desktop/CSU Homework/Computer_Class/HW-2/Unreal_Projects/Bullseye_Gang_1/Content/Enemies/Basic_Mob/Model_Animation_5_Anim_Root_Walk_start.uasset",
+				"C:/Users/chaml/OneDrive/Desktop/CSU Homework/Computer_Class/HW-2/Unreal_Projects/Bullseye_Gang_1/Content/Enemies/Bullseye_Boss/Model_Animation_Boss.uasset",
+				"C:/Users/chaml/OneDrive/Desktop/CSU Homework/Computer_Class/HW-2/Unreal_Projects/Bullseye_Gang_1/Content/Enemies/Bullseye_Boss/Material_003.uasset",
+				"C:/Users/chaml/OneDrive/Desktop/CSU Homework/Computer_Class/HW-2/Unreal_Projects/Bullseye_Gang_1/Content/Enemies/Bullseye_Boss/Guy.uasset",
+				"C:/Users/chaml/OneDrive/Desktop/CSU Homework/Computer_Class/HW-2/Unreal_Projects/Bullseye_Gang_1/Content/Enemies/Bullseye_Boss/Model_Animation_Boss_Skeleton.uasset",
+				"C:/Users/chaml/OneDrive/Desktop/CSU Homework/Computer_Class/HW-2/Unreal_Projects/Bullseye_Gang_1/Content/Enemies/Bullseye_Boss/Model_Animation_Boss_PhysicsAsset.uasset",
+				"C:/Users/chaml/OneDrive/Desktop/CSU Homework/Computer_Class/HW-2/Unreal_Projects/Bullseye_Gang_1/Content/Enemies/Bullseye_Boss/Model_Animation_Boss_Anim_Root_grab.uasset",
+				"C:/Users/chaml/OneDrive/Desktop/CSU Homework/Computer_Class/HW-2/Unreal_Projects/Bullseye_Gang_1/Content/Enemies/Bullseye_Boss/Model_Animation_Boss_Anim_Root_shoot_1.uasset",
+				"C:/Users/chaml/OneDrive/Desktop/CSU Homework/Computer_Class/HW-2/Unreal_Projects/Bullseye_Gang_1/Content/Enemies/Bullseye_Boss/Model_Animation_Boss_Anim_Root_Walk_end.uasset",
+				"C:/Users/chaml/OneDrive/Desktop/CSU Homework/Computer_Class/HW-2/Unreal_Projects/Bullseye_Gang_1/Content/Enemies/Bullseye_Boss/Model_Animation_Boss_Anim_Root_Walk_start.uasset"
+			]
+		}
+	]
+}
